@@ -10,3 +10,35 @@
     border-radius: 5px;
     border: 1px solid black;
 }
+
+.about-me {
+    color: purple;
+    font-size: 30px;
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px #000 solid;
+    width: 85px;
+}
+
+.recent-project {
+    color: purple;
+    font-size: 30px;
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px #000 solid;
+    width: 110px;
+}
+
+.contact-me {
+    color: purple;
+    font-size: 30px;
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px #000 solid;
+    width: 105px;
+}
+
+.about-us-text {
+    color: purple;
+    font-size: 30px;
+}
